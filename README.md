@@ -1,4 +1,4 @@
 # BrAIn-Academy
 Unique techniques used in the BrAIn project.
 
-<img src="[[http://url/to/img.png](https://img.imgyukle.com/2023/07/23/rvtrDs.png)https://img.imgyukle.com/2023/07/23/rvtrDs.png](https://imgyukle.com/i/rvtrDs)" alt="BrAIn" width="320" height="180">
+<a href="https://resimlink.com/hcl48mk2" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/hcl48mk2.png" title="ResimLink - Resim Yükle" alt="BrAIn"></a>
