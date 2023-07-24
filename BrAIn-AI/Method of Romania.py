@@ -1,4 +1,4 @@
-#WARNING! This code is a sample code that shows how the "Method of Romania" works.
+#WARNING! This code is a sample code that shows how the "Method of Romania" works. And programmed to the most efficient method.
 import tkinter as tk
 from tkinter import *
 import time
