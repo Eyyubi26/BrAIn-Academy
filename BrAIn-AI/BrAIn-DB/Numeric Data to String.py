@@ -1,3 +1,4 @@
+#WARNING! This code is a sample code that shows how the "Numeric Data to String" works.
 import os
 
 digits = ["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
