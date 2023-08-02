@@ -1,3 +1,4 @@
+#WARNING! This code is a sample code that shows how the "Method of Romania" works.
 import tkinter as tk
 from tkinter import *
 import time
